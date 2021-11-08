@@ -1,0 +1,11 @@
+config.ini
+env
+dist
+.terraform/
+infra/.tfvars
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+.DS_Store
+__pycache__
+.pylintrc

@@ -1,0 +1,12 @@
+[aws_access]
+access_key = XXXXXXXXXXXXXXX
+secret_key = XXXxxxxxXxXxXxXxXxxxXxxxxXXXxxx
+
+[s3_access]
+bucket_name = xxxxxxxxx
+region = xx-xxxx-X
+
+[kinesis_stream]
+stream_name = xxxxxxxxx
+stream_name_arn = arn:aws:kinesis:xx-xxxx-X:XXXXXXXXXXXX:stream/xxxxxxxxx
+num_shards = XX
